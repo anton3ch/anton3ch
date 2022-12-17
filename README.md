@@ -12,7 +12,8 @@
 </a>
 </p>
 
-<!-- ![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton3ch&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)</p>
+<!-- https://github.com/anuraghazra/github-readme-stats#wakatime-week-stats
+![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=anton3ch&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)</p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anton3ch&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anton3ch/github-readme-stats) -->
 
 

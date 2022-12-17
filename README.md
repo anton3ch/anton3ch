@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anton3ch&show_icons=true&bg_color=30,cc2b5e,753a88&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/anton3ch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton3ch&layout=compact&bg_color=30,753a88,cc2b5e&title_color=fff&text_color=fff)](https://github.com/anton3ch/github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anton3ch&layout=compact&title_color=fff&text_color=fff&bg_color=30,753a88,cc2b5e)](https://github.com/anton3ch/github-readme-stats" />
 </a>
 </p>
 

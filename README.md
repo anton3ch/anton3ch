@@ -1,14 +1,12 @@
-### Hi there ✌️
-### I'm Anton
-### I’m an inquisitive Software Engineer driven by a passion for blending creativity, technology, and innovation. My diverse background and curiosity fuel my continuous learning and problem-solving approach. I thrive on tackling challenges independently and as part of a team, always aiming to push boundaries and deliver high-quality solutions.
+###I'm an inquisitive Full Stack Software Engineer who loves merging creativity, technology, and innovation to build meaningful solutions. My diverse experiences drive my curiosity and motivate me to continuously learn, explore new ideas, and tackle challenges both independently and collaboratively.
 
-### As a freelance Software Engineer, I delivered over 15 custom software solutions, consistently exceeding client expectations with a 100% satisfaction rate. I utilized advanced technologies to reduce development time by 25% and enhance software performance. My strong organizational and time management skills allowed me to consistently meet project deadlines, earning 5-star ratings and repeat business.
+###I'm particularly fascinated by Large Language Models (LLMs) and regularly use them to make my workflow smoother, automate everyday tasks, and boost productivity. Augmented reality is another area I'm passionate about; I believe it holds immense potential for enhancing productivity and efficiency in our daily lives.
 
-### Previously, I contributed to PupPod, where I led the development of a cross-platform game app for iOS, Android, and Web. By optimizing the app for various devices, I successfully increased our user base by 25% and improved app ratings by 20%. My role involved designing an intricate game progression system featuring multiple levels, badges, and escalating challenges. Additionally, I enhanced the app’s visual appeal by creating and refining image and GIF assets.
+###As a freelance Software Engineer, I've delivered more than 15 custom software solutions, consistently going beyond client expectations and maintaining a 100% satisfaction rate. By utilizing modern technologies and efficient coding practices, I've reduced development time by 25% and significantly enhanced software performance. My ability to stay organized ensures I always meet deadlines, earning repeat business and excellent client feedback.
 
-### At Business Solution Network, I spearheaded the migration of a legacy web application to a modern React-based architecture. This transformation resulted in a 50% reduction in page load times and a 40% increase in user engagement. I also designed and implemented dynamic employee onboarding processes using JavaScript and CSS animations, significantly boosting engagement. My focus on responsive design principles led to a 20% increase in mobile traffic, ensuring a consistent user experience across all devices.
+###At PupPod, I led the development of a cross-platform game app for iOS, Android, and Web, optimizing performance and user experience, resulting in a 25% user base growth and a 20% improvement in app ratings. At Business Solution Network, I spearheaded the migration from legacy systems to modern React-based architectures, achieving a 50% reduction in page load times and notably boosting user engagement.
 
-### In my free time, I enjoy hiking, capturing moments with my Canon 5D Mark IV, and creating smart home devices through 3D modeling and printing. I am dedicated to self-improvement, constantly seeking new knowledge and skills to stay ahead in the ever-evolving field of software engineering.
+###When I'm not coding, I enjoy tinkering with custom HomeKit solutions, like automating my water filter, and innovating my smart home setup through 3D modeling and printing. Outside tech, I love traveling, hiking, scuba diving, photographing wildlife and nature with my Canon 5D Mark IV—all activities that inspire my creativity and help me maintain a balanced and fulfilling lifestyle.
 
 
 
